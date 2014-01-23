@@ -7,4 +7,5 @@ Homework for Week 3
 4. Run the program to see what happens so far.
 5. Look inside the source code and find the questions.
 6. Add your code into the program so that all of the questions are answered.
-
+7. Commit your changes.
+8. Push (sync) your changes back into Github.
